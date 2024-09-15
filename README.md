@@ -1,2 +1,2 @@
-# -klid_python
+# -oklid_python
 Minimum Öklid Mesafesinin Hesaplanması
